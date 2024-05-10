@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main ()
+
+{
+ 
+ int a=23;
+ int b=24;
+ cout<< "this is abhi"<< a<<"this  value  is  A"<<b;
+ return 0;
+}
