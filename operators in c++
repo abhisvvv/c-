@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main ()
+{
+    int a=3,b=5;
+    //operators of the c++
+    cout<<" following of the type of the operators in c++  "<<endl;
+ cout<<"oprator in c++"<<endl;
+cout<<"this value of a+b is  "<<a+b<<endl;
+cout<<"this value of a-b is  "<<a-b<<endl;
+cout<<"this value of a*b is  "<<a*b<<endl;
+cout<<"this value of a/b is  "<<a/b<<endl;
+cout<<"this value of a%b is  "<<a+b<<endl;
+cout<<"this value of ++a is  "<<++a<<endl;
+cout<<"this value of --a is  "<<--a<<endl;
+cout<<"this value of a++ is  "<<a++<<endl;
+ return 0;
+}
